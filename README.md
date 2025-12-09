@@ -3,7 +3,7 @@ This repo is a list of papers and articles that discuss errors in research due t
 
 Please feel free to make additions, keeping the lists in chronologic order (by year), and formatting entries similarly to exisiting ones (title, author, publisher, year. DOI/URL). See the [contributing guidelines](https://github.com/danielskatz/errors-due-to-research-software/edit/main/README.md#contributing) below.
 
-## Papers / articles
+## Papers / articles related to research software
 
 * A Scientist's Nightmare: Software Problem Leads to Five Retractions, Greg Miller, Science, 2006. https://doi.org/10.1126/science.314.5807.1856
 * Retraction: "Structure of MsbA from E. coli: A homolog of the multidrug resistance ATP binding cassette (ABC) transporters", "Structure of the ABC transporter MsbA in complex with ADP·vanadate and lipopolysaccharide", "X-ray structure of the EmrE multidrug transporter in complex with a substrate", Geoffrey Chang, Christopher B. Roth, Christopher L. Reyes, Owen Pornillos, Yen-Ju Chen, and Andy P. Chen, Science, 2006. https://doi.org/10.1126/science.314.5807.1875b
@@ -12,11 +12,15 @@ Please feel free to make additions, keeping the lists in chronologic order (by y
 * BLOSUM62 miscalculations improve search performance, Mark P Styczynski, Kyle L Jensen, Isidore Rigoutsos, and Gregory Stephanopoulos, Nature Biotechnology, 2008. https://doi.org/10.1038/nbt0308-274
 * Retraction: Inferring the Effects of Cancer Treatment: Divergent Results From Early Breast Cancer Trialists’ Collaborative Group Meta-Analyses of Randomized Trials and Observational Data From SEER Registries, Katherine E. Henson, Reshma Jagsi, David Cutter, Paul McGale, Carolyn Taylor, and Sarah C. Darby, Journal of Clinical Oncology, 2016. https://doi.org/10.1200/jco.2016.69.0875
 * Retraction: How birds outperform humans in multi-component behavior, Sara Letzner, Onur Güntürkün, and Christian Beste, Current Biology Magazine, 2017. https://doi.org/10.1016/j.cub.2017.07.056
+* The war over supercoppled water, Ashley G. Smart, Physics Today, 2018, https://doi.org/10.1063/PT.6.1.20180822a
 * Characterization of Leptazolines A–D, Polar Oxazolines from the Cyanobacterium Leptolyngbya sp., Reveals a Glitch with the “Willoughby–Hoye” Scripts for Calculating NMR Chemical Shifts, Jayanti Bhandari Neupane, Ram P. Neupane, Yuheng Luo, Wesley Y. Yoshida, Rui Sun, and Philip G. Williams, Organic Letters, 2019. https://doi.org/10.1021/acs.orglett.9b03216
+* Researchers find bug in Python script may have affected hundreds of studies, Sean Gallagher, Ars Technicha, 2019. https://arstechnica.com/information-technology/2019/10/chemists-discover-cross-platform-python-scripts-not-so-cross-platform
 * Covid: how Excel may have caused loss of 16,000 test results in England, Alex Hern, The Guardian, 2020. https://www.theguardian.com/politics/2020/oct/05/how-excel-may-have-caused-loss-of-16000-covid-tests-in-england
 * A case for open communication of bugs in climate models, made with ICON version 2024.01, Proske, U., Brüggemann, N., Gärtner, J. P., Gutjahr, O., Haak, H., Putrasahan, D., and Wieners, K.-H., EGUsphere, 2024.  https://doi.org/10.5194/egusphere-2024-3493
-* Researchers find bug in Python script may have affected hundreds of studies, Sean Gallagher, Ars Technicha, 2019. https://arstechnica.com/information-technology/2019/10/chemists-discover-cross-platform-python-scripts-not-so-cross-platform
-* The war over supercoppled water, Ashley G. Smart, Physics Today, 2018, https://doi.org/10.1063/PT.6.1.20180822a
+
+## Papers / articles related to general software as used in research
+
+* Covid: how Excel may have caused loss of 16,000 test results in England, Alex Hern, The Guardian, 2020. https://www.theguardian.com/politics/2020/oct/05/how-excel-may-have-caused-loss-of-16000-covid-tests-in-england
 
 ## Collections
 

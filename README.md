@@ -14,18 +14,20 @@ Please feel free to make additions, keeping the lists in chronologic order (by y
 * Retraction: Inferring the Effects of Cancer Treatment: Divergent Results From Early Breast Cancer Trialists’ Collaborative Group Meta-Analyses of Randomized Trials and Observational Data From SEER Registries, Katherine E. Henson, Reshma Jagsi, David Cutter, Paul McGale, Carolyn Taylor, and Sarah C. Darby, Journal of Clinical Oncology, 2016. https://doi.org/10.1200/jco.2016.69.0875
 * Retraction: How birds outperform humans in multi-component behavior, Sara Letzner, Onur Güntürkün, and Christian Beste, Current Biology Magazine, 2017. https://doi.org/10.1016/j.cub.2017.07.056
 * The war over supercooled water, Ashley G. Smart, Physics Today, 2018, https://doi.org/10.1063/PT.6.1.20180822a
+  + This story is announced as a "hidden coding error", but a careful reading shows that it was really a case of an unjustified assumption, which hadn't been written down anywhere else but in the code.
 * Characterization of Leptazolines A–D, Polar Oxazolines from the Cyanobacterium Leptolyngbya sp., Reveals a Glitch with the “Willoughby–Hoye” Scripts for Calculating NMR Chemical Shifts, Jayanti Bhandari Neupane, Ram P. Neupane, Yuheng Luo, Wesley Y. Yoshida, Rui Sun, and Philip G. Williams, Organic Letters, 2019. https://doi.org/10.1021/acs.orglett.9b03216
   + Researchers find bug in Python script may have affected hundreds of studies, Sean Gallagher, Ars Technicha, 2019. https://arstechnica.com/information-technology/2019/10/chemists-discover-cross-platform-python-scripts-not-so-cross-platform
 * Notice of Retraction. Aboumatar et al. Effect of a Program Combining Transitional Care and Long-term Self-management Support on Outcomes of Hospitalized Patients With Chronic Obstructive Pulmonary Disease: A Randomized Clinical Trial. JAMA. 2018;320(22):2335-2343, Hanan Aboumatar and Robert A. Wise, JAMA. 2019. https://doi.org/10.1001/jama.2019.11954
 * A case for open communication of bugs in climate models, made with ICON version 2024.01, Proske, U., Brüggemann, N., Gärtner, J. P., Gutjahr, O., Haak, H., Putrasahan, D., and Wieners, K.-H., EGUsphere, 2024.  https://doi.org/10.5194/egusphere-2024-3493
 
-## Papers / articles related to general software as used in research
+## Papers / articles related to general software as used in research (eg, Excel-related errors)
 
 * Covid: how Excel may have caused loss of 16,000 test results in England, Alex Hern, The Guardian, 2020. https://www.theguardian.com/politics/2020/oct/05/how-excel-may-have-caused-loss-of-16000-covid-tests-in-england
 
-## Collections
+## Papers / articles that collection multiple failure examples
 
 * Bits and Bugs: A Scientific and Historical Review on Software Failures in Computational Science, Thomas Huckle and Tobias Neckel, SIAM, 2019. https://doi.org/10.1137/1.9781611975567
+* EuSPRIG Spreadsheet Horror Stories, European Spreadsheet Productivity & Risks Interest Group. https://eusprig.org/research-info/horror-stories/
 
 ## About this repository
 

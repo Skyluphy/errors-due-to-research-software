@@ -22,7 +22,14 @@ Please feel free to make additions, keeping the lists in chronologic order (by y
 
 ## Papers / articles related to general software as used in research (eg, Excel-related errors)
 
+* Mistaken identifiers: gene name errors can be introduced inadvertently when using Excel in bioinformatics, Zeeberg BR, Riss J, Kane DW, Bussey KJ, Uchio E, Linehan WM, Barrett JC, and Weinstein JN, BMC Bioinformatics. 2004. https://doi.org/10.1186/1471-2105-5-80
+* Gene name errors are widespread in the scientific literature, Ziemann M, Eren Y, and El-Osta A, Genome Biololgy, 2016. https://doi.org/10.1186/s13059-016-1044-7
 * Covid: how Excel may have caused loss of 16,000 test results in England, Alex Hern, The Guardian, 2020. https://www.theguardian.com/politics/2020/oct/05/how-excel-may-have-caused-loss-of-16000-covid-tests-in-england
+* Guidelines for human gene nomenclature, Elspeth A. Bruford, Bryony Braschi, Paul Denny, Tamsin E. M. Jones, Ruth L. Seal, and Susan Tweedie, Nature Genetics, 2020. https://doi.org/10.1038/s41588-020-0669-3
+  + includes "symbols that affect data handling and retrieval, e.g. all symbols that auto-converted to dates in Microsoft Excel have been changed (SEPT1 is now SEPTIN1; MARCH1 is now MARCHF1 etc); tRNA synthetase symbols that were also common words have been changed (WARS is now WARS1, CARS is now CARS1, etc.)."
+* Microsoft Finally Fixes Excel Glitch That Caused Major Headaches for Scientists, Josh Hendrickson, PC Mag, 2023. https://www.pcmag.com/news/microsoft-finally-fixes-excel-glitch-that-caused-major-headaches-for-scientists
+ + includes "Years after introducing Excel's automatic conversion features, Microsoft rolls out an update to prevent it from changing gene symbols to dates." 
+ 
 
 ## Papers / articles that collection multiple failure examples
 

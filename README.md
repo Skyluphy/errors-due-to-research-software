@@ -24,7 +24,6 @@ Please feel free to make additions, keeping the lists in chronologic order (by y
   + "retracted by agreement between the authors, the journal's editors, and Wiley ... because a computational error produced results that led the authors to overstate the level of performance of their computing model."
 * Retraction Note: Limited individual attention and online virality of low-quality information by Qiu, Oliveira, Shirazi, Flammini, and Filippo Menczer in _Nature Human Behavior_ in 2019.
   + "a software bug led to an incorrect value"
-    >
     > In Fig. 5, the model plot was produced with erroneous data. [Why was the data erroneous? Was this related to the aforementioned software bug?]
 * Cluster failure: Why fMRI inferences for spatial extent have inflated false-positive rates, Anders Eklunda, Thomas E. Nichols, and Hans Knutssona, Proceedings of the National Academy of Sciences, 2016. https://doi.org/10.1073/pnas.1602413113
   + > Second, a 15-year-old bug was found in 3dClustSim while testing the three software packages (the bug was fixed by the AFNI group as of May 2015, during preparation of this manuscript). The bug essentially reduced the size of the image searched for clusters, underestimating the severity of the multiplicity correction and overestimating significance (i.e., 3dClustSim FWE P values were too low)... We find this to be alarming, as 3dClustSim is one of the most popular choices for multiple-comparisons correction (26).

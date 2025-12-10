@@ -21,6 +21,7 @@ Please feel free to make additions, keeping the lists in chronologic order (by y
 ## Papers / articles related to general software as used in research
 
 * Covid: how Excel may have caused loss of 16,000 test results in England, Alex Hern, The Guardian, 2020. https://www.theguardian.com/politics/2020/oct/05/how-excel-may-have-caused-loss-of-16000-covid-tests-in-england
+* Computational science: ...Error, Zeeya Merali, Nature, 2010, https://doi.org/10.1038/467775a
 
 ## Collections
 

